@@ -1,0 +1,11 @@
+.homePage {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.homeHeading {
+    font-size: 10rem;
+    text-shadow: 1px 1px 10px var(--primary-color);
+}
